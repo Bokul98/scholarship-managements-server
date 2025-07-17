@@ -1,0 +1,6 @@
+node_modules
+.env
+.vercel
+firebase-admin.js
+verifyRole.js
+verifyToken.js
