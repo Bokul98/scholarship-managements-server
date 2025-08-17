@@ -7,7 +7,7 @@ const applicationSchema = new mongoose.Schema({
         required: true
     },
     userId: {
-        type: String,  // Firebase UID
+        type: String,
         required: true
     },
     userName: {
